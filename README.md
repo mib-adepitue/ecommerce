@@ -47,7 +47,7 @@ Kebutuhan
 9. kemudian ketikkan perintah ```php artisan serve```
 10. buka browser lalu akses ```localhost:8000```
 11. Anda akan secara otomatis memiliki akun yang bisa digunakan untuk login yaitu <blockquote>
-    email : khaeruddinasdar12@gmail.com<br>
+    email : mibadepituedp@gmail.com<br>
     password : 12345678
     </blockquote>
 12. Done.
