@@ -45,7 +45,7 @@
                 <div class="col-6">
                     <address>
                         <strong>Metode Pembayaran:</strong><br>
-                        BRI 5221 8421 5007 0495 an. Khaeruddin Asdar
+                        BRI 5221 8421 5007 0495 an. ex(MIB-Ade'Pitue)
                     </address>
                 </div>
                 <div class="col-6 text-right">

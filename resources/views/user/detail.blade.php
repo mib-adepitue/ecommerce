@@ -46,7 +46,7 @@ Checkout {{config('app.name')}}
     			<div class="col-6">
     				<address>
     					<strong>Metode Pembayaran:</strong><br>
-    					BRI 5221 8421 5007 0495 an. Khaeruddin Asdar
+    					BRI 5221 8421 5007 0495 an. ex(MIB-Ade'Pitue)
                         @if($transaksi->status == 0)
                         <br>
                         <span class="text-danger">Lakukan pembayaran sesuai dengan nominal pada Total Pembayaran di bawah !</span><br>
